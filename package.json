@@ -14,12 +14,13 @@
     "axios": "^0.21.1",
     "core-js": "^3.6.5",
     "lodash": "^4.17.21",
-    "quasar": "^2.0.0-beta.19",
-    "vue-i18n": "^9.0.0-beta.0"
+    "quasar": "^2.0.0-rc.1",
+    "vue-i18n": "^9.0.0-beta.0",
+    "vuex": "4"
   },
   "devDependencies": {
     "@babel/eslint-parser": "^7.13.14",
-    "@quasar/app": "^3.0.0-beta.28",
+    "@quasar/app": "^3.0.0-rc.1",
     "electron": "^12.0.9",
     "electron-packager": "^14.1.1",
     "eslint": "^7.14.0",
