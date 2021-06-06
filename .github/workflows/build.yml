@@ -1,9 +1,8 @@
 name: build
 on:
   push:
-    branches:
-    - main
-  workflow_dispatch:
+    tags:
+      - 'v*.*.*'
 
 jobs:
   build:
